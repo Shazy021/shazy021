@@ -97,9 +97,9 @@
 </tr>
   
 <tr>
-  <td><a href = "https://github.com/Shazy021/Titanic_Spark">Знакомство с Apache Spark</a></td>
-  <td>numpy, pandas, seaborn, matplotlib, pyspark(ml+sql)</td>
-  <td>Знакомство с Apache Spark используя Titanic Dataset. В этой работе применяются методы машинного обучения для проедсказания того, какие пассажиры могли выжить в этой трагедии.</td>
+  <td><a href = "https://github.com/Shazy021/tele_bot">Telegram бот</a></td>
+  <td>SQL, aiogram 3.0, detectron2, numpy, matplotlib, onnx, onnxruntime, opencv-python, ultralytics, torch 1.13.1+cu116</td>
+  <td>Детекция объектов на изображениях. Данный Telegram бот демонстрирует возможности следующих моделей YOLOv8, Detectron2 и MiDas.</td>
   <td>Завершен</td>
 </tr>
 
