@@ -71,6 +71,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
+---
+
+![](https://www.codewars.com/users/Shazy021/badges/large)
 
 ## Яндекс практикум
 <details open>
