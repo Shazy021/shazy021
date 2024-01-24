@@ -172,5 +172,19 @@
   <td>Завершен</td>
 </tr>
 
+<tr>
+  <td><a href = "https://github.com/Shazy021/Sotik-generation">Модульный проект по симуляции работы магазина телефонов</a></td>
+  <td>PostgreSQL, Docker, Docker-compose, Appache Airflow, FastAPI, Faker, Aiogram (3.0), Pyspark(+sql), Numpy, Pandas, Plotly, Scipy, Seaborn, Matplotlib, Statsmodels, CatBoost, XGB, LGBM, Pmdarima(Auto-ARIMA), Folium, Geocoder, Reverse Geocoder, Requests, Urllib, BeautifulSoup, Selenium, Pylint</td>
+  <td>Проект по симуляции магазина телефонов</td>
+  <td>Завершен</td>
+</tr>
+
+<tr>
+  <td><a href = "https://github.com/Shazy021/Image-Segmentation-API">Image-Segmentation-API</a></td>
+  <td>FastAPI, uvicorn, Docker, Docker-compose, YoloV8(Segmentation), Numpy, OpenCV, Onnx, Onnxruntime, Docker ci, Pylint</td>
+  <td>API для сегментации объектов изображения с использованием модели YOLOV8.</td>
+  <td>Завершен</td>
+</tr>
+
 </table>
 </details>
