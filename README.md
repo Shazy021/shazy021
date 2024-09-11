@@ -75,6 +75,42 @@
 
 ![](https://www.codewars.com/users/Shazy021/badges/large)
 
+
+## Pet-projects
+<details open>
+  <summary>Список проектов</summary>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Стек</th>
+  <th>Описание</th>
+  <th>Статус проекта</th>
+</tr>
+  
+<tr>
+  <td><a href = "https://github.com/Shazy021/tele_bot">Telegram бот</a></td>
+  <td>SQL, aiogram 3.0, detectron2, numpy, matplotlib, onnx, onnxruntime, opencv-python, ultralytics, torch 1.13.1+cu116</td>
+  <td>Детекция объектов на изображениях. Данный Telegram бот демонстрирует возможности следующих моделей YOLOv8, Detectron2 и MiDas.</td>
+  <td>Завершен</td>
+</tr>
+
+<tr>
+  <td><a href = "https://github.com/Shazy021/Sotik-generation">Модульный проект по симуляции работы магазина телефонов</a></td>
+  <td>PostgreSQL, Docker, Docker-compose, Appache Airflow, FastAPI, Faker, Aiogram (3.0), Pyspark(+sql), Numpy, Pandas, Plotly, Scipy, Seaborn, Matplotlib, Statsmodels, CatBoost, XGB, LGBM, Pmdarima(Auto-ARIMA), Folium, Geocoder, Reverse Geocoder, Requests, Urllib, BeautifulSoup, Selenium, Pylint</td>
+  <td>Проект по симуляции магазина телефонов</td>
+  <td>Завершен</td>
+</tr>
+
+<tr>
+  <td><a href = "https://github.com/Shazy021/Image-Segmentation-API">Image-Segmentation-API</a></td>
+  <td>FastAPI, uvicorn, Docker, Docker-compose, YoloV8(Segmentation), Numpy, OpenCV, Onnx, Onnxruntime, Docker ci, Pylint</td>
+  <td>API для сегментации объектов изображения с использованием модели YOLOV8.</td>
+  <td>Завершен</td>
+</tr>
+
+</table>
+</details>
+
 ## Яндекс практикум
 <details open>
   <summary>Список проектов</summary>
@@ -150,41 +186,5 @@
   <td>Завершен</td>
 </tr>
   
-</table>
-</details>
-
-
-## Pet-projects
-<details open>
-  <summary>Список проектов</summary>
-<table>
-<tr>
-  <th>Название проекта</th>
-  <th>Стек</th>
-  <th>Описание</th>
-  <th>Статус проекта</th>
-</tr>
-  
-<tr>
-  <td><a href = "https://github.com/Shazy021/tele_bot">Telegram бот</a></td>
-  <td>SQL, aiogram 3.0, detectron2, numpy, matplotlib, onnx, onnxruntime, opencv-python, ultralytics, torch 1.13.1+cu116</td>
-  <td>Детекция объектов на изображениях. Данный Telegram бот демонстрирует возможности следующих моделей YOLOv8, Detectron2 и MiDas.</td>
-  <td>Завершен</td>
-</tr>
-
-<tr>
-  <td><a href = "https://github.com/Shazy021/Sotik-generation">Модульный проект по симуляции работы магазина телефонов</a></td>
-  <td>PostgreSQL, Docker, Docker-compose, Appache Airflow, FastAPI, Faker, Aiogram (3.0), Pyspark(+sql), Numpy, Pandas, Plotly, Scipy, Seaborn, Matplotlib, Statsmodels, CatBoost, XGB, LGBM, Pmdarima(Auto-ARIMA), Folium, Geocoder, Reverse Geocoder, Requests, Urllib, BeautifulSoup, Selenium, Pylint</td>
-  <td>Проект по симуляции магазина телефонов</td>
-  <td>Завершен</td>
-</tr>
-
-<tr>
-  <td><a href = "https://github.com/Shazy021/Image-Segmentation-API">Image-Segmentation-API</a></td>
-  <td>FastAPI, uvicorn, Docker, Docker-compose, YoloV8(Segmentation), Numpy, OpenCV, Onnx, Onnxruntime, Docker ci, Pylint</td>
-  <td>API для сегментации объектов изображения с использованием модели YOLOV8.</td>
-  <td>Завершен</td>
-</tr>
-
 </table>
 </details>
