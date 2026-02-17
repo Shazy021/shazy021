@@ -56,16 +56,6 @@
 
 </table>
 
----
-
-## 📊 Kaggle Highlights
-
-Selected high-performing notebooks demonstrating deep learning expertise:
-
-- **[PyTorch Lightning ⚡ | Xception | Test Acc: 99%](https://www.kaggle.com/code/shazy021/pytorch-lightning-xception-test-acc-99)** — Image classification with custom preprocessing and Lightning training loop
-- **[PyTorch Lightning | Baseline (no background)](https://www.kaggle.com/code/shazy021/pytorch-lightning-baseline-data-without-bg)** — Advanced data preprocessing techniques for CV tasks
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shazy021&style=flat-square&color=blue" alt=""/>
