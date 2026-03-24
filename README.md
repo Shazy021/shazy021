@@ -41,12 +41,6 @@
 </tr>
 
 <tr>
-  <td><a href="https://www.kaggle.com/shazy021"><b>Jaguar Re-Identification</b></a></td>
-  <td>PyTorch, CV</td>
-  <td><b>17th place / 300 participants</b> in Kaggle competition. Animal identification from photographs using deep learning with pseudo-labeling approach.</td>
-</tr>
-
-<tr>
   <td><a href="https://github.com/Shazy021/Sotik-generation"><b>Retail Analytics Platform</b></a></td>
   <td>PostgreSQL, Airflow, PySpark, FastAPI</td>
   <td>End-to-end system: parsing, ETL pipelines, analytics. <b>73M+ orders</b> processed. Telegram bot with analytical reports.</td>
