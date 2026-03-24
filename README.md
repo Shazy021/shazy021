@@ -4,13 +4,11 @@
 
 <p align="center">
   <b>CV/ML Engineer</b> focused on optimized inference, model deployment, and high-performance computer vision systems.<br>
-  Building scalable ML services with C++, Python, Docker, and ONNX Runtime.
 </p>
 
 <p align="center">
   <a href="https://t.me/Shazy021">Telegram</a> •
   <a href="https://www.kaggle.com/shazy021">Kaggle</a> •
-  <a href="https://github.com/Shazy021">GitHub</a>
 </p>
 
 ---
@@ -25,37 +23,34 @@
 </tr>
 
 <tr>
-  <td><a href="https://github.com/Shazy021/yolo-pose-cpp"><b>🔥 yolo-pose-cpp</b></a></td>
-  <td>C++, ONNX Runtime, OpenCV, CUDA, Docker</td>
-  <td>High-performance pose estimation pipeline. Optimized from 10 to 94 FPS using GPU inference, batching, and CUDA providers.</td>
+  <td><a href="https://github.com/Shazy021/yolo-pose-cpp"><b>yolo-pose-cpp</b></a></td>
+  <td>C++, ONNX Runtime, CUDA, Docker</td>
+  <td>GPU-oriented pose estimation pipeline with zero-copy binding. Solved CPU preprocessing bottleneck (~63% time). <b>640×640: 37→148 FPS (+300%)</b>, 1280×1280: 21→58 FPS (+176%).</td>
 </tr>
 
 <tr>
-  <td><a href="https://github.com/Shazy021/Image-Segmentation-API"><b>Image Segmentation API</b></a></td>
-  <td>FastAPI, Docker, YOLOv8, ONNX Runtime</td>
-  <td>Containerized REST API for instance segmentation using FastAPI & Docker.</td>
+  <td><a href="https://github.com/Shazy021/VisionPipeline"><b>VisionPipeline</b></a> </td>
+  <td>Python, TensorRT, Triton, multiprocessing</td>
+  <td>Modular multiprocessing pipeline for object detection. Zero-copy ring buffer on shared memory with lock-free synchronization. 4 backends: PyTorch, ONNX, TensorRT, Triton. Batch inference with adaptive timeout.</td>
 </tr>
 
 <tr>
-  <td><a href="https://github.com/Shazy021/Triton_yolov8-seg"><b>Triton YOLO Segmentation</b></a></td>
-  <td>Triton Inference Server, Docker, ONNX</td>
-  <td>Implementation of model serving using NVIDIA Triton, featuring model repository setup and client-side inference.</td>
+  <td><a href="https://github.com/Shazy021/yolo-vs-rtdetr-benchmark"><b>YOLO vs RT-DETR Benchmark</b></a></td>
+  <td>PyTorch, ONNX, TensorRT</td>
+  <td>Comparative benchmark on <b>RTX 5080</b> across inference frameworks. Performance analysis for YOLO and RT-DETR models with different export formats.</td>
 </tr>
 
 <tr>
-  <td><a href="https://github.com/Shazy021/tele_bot"><b>Multi-Model Detection Bot</b></a></td>
-  <td>aiogram 3.0, YOLOv8, Detectron2, MiDaS, ONNX</td>
-  <td>Telegram bot integrating object detection, segmentation, and depth estimation models.</td>
+  <td><a href="https://www.kaggle.com/shazy021"><b>Jaguar Re-Identification</b></a></td>
+  <td>PyTorch, CV</td>
+  <td><b>17th place / 300 participants</b> in Kaggle competition. Animal identification from photographs using deep learning with pseudo-labeling approach.</td>
 </tr>
 
 <tr>
-  <td><a href="https://github.com/Shazy021/Sotik-generation"><b>E-commerce Analytics Platform</b></a></td>
-  <td>PostgreSQL, Docker, Airflow, FastAPI, PySpark</td>
-  <td>End-to-end data platform with ETL pipelines, ML forecasting, and interactive dashboards.</td>
+  <td><a href="https://github.com/Shazy021/Sotik-generation"><b>Retail Analytics Platform</b></a></td>
+  <td>PostgreSQL, Airflow, PySpark, FastAPI</td>
+  <td>End-to-end system: parsing, ETL pipelines, analytics. <b>73M+ orders</b> processed. Telegram bot with analytical reports.</td>
 </tr>
-
-</table>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shazy021&style=flat-square&color=blue" alt=""/>
