@@ -29,9 +29,9 @@
 </tr>
 
 <tr>
-  <td><a href="https://github.com/Shazy021/VisionPipeline"><b>VisionPipeline</b></a> </td>
-  <td>Python, TensorRT, Triton, multiprocessing</td>
-  <td>Modular multiprocessing pipeline for object detection. Zero-copy ring buffer on shared memory with lock-free synchronization. 4 backends: PyTorch, ONNX, TensorRT, Triton. Batch inference with adaptive timeout.</td>
+  <td><a href="https://github.com/Shazy021/yolo-trt-nms"><b>yolo-trt-nms</b></a> </td>
+  <td>Python, TensorRT, Triton, PyCUDA</td>
+  <td>YOLO → TensorRT with GPU-accelerated NMS via EfficientNMS_TRT plugin. Threading pipeline with dynamic batching. Two modes: standalone .engine and Triton Inference Server. FP16, RTSP/webcam support.</td>
 </tr>
 
 <tr>
@@ -45,6 +45,9 @@
   <td>PostgreSQL, Airflow, PySpark, FastAPI</td>
   <td>End-to-end system: parsing, ETL pipelines, analytics. <b>73M+ orders</b> processed. Telegram bot with analytical reports.</td>
 </tr>
+</table>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shazy021&style=flat-square&color=blue" alt=""/>
