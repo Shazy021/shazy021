@@ -31,7 +31,7 @@
 <tr>
   <td><a href="https://github.com/Shazy021/yolo-trt-nms"><b>yolo-trt-nms</b></a> </td>
   <td>Python, TensorRT, Triton, PyCUDA</td>
-  <td>YOLO → TensorRT with GPU-accelerated NMS via EfficientNMS_TRT plugin. Threading pipeline with dynamic batching. Two modes: standalone .engine and Triton Inference Server. FP16, RTSP/webcam support.</td>
+  <td>One-command YOLO → TensorRT export with GPU-accelerated NMS. NMS baked into graph via EfficientNMS_TRT. Auto-generated Triton config. Threading pipeline + dynamic batching out of the box.</td>
 </tr>
 
 <tr>
