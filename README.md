@@ -1,17 +1,5 @@
 <img src='https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif' height=350 width=1900 align="center">
 
-<h1 align="center">👋 Hi, I'm Shazy</h1>
-
-<p align="center">
-  <b>CV/ML Engineer</b> focused on optimized inference, model deployment, and high-performance computer vision systems.<br>
-</p>
-
-<p align="center">
-  <a href="https://t.me/Shazy021">Telegram</a> •
-  <a href="https://www.kaggle.com/shazy021">Kaggle</a> •
-</p>
-
----
 
 ## 🚀 Portfolio Projects
 
